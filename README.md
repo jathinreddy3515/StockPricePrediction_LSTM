@@ -16,7 +16,7 @@ The model is trained on **historical stock price data** and learns patterns to f
 
 ---
 
-## 🧠 Whiteboard Explanation (Simple Terms)
+## 🧠 Explanation (Simple Terms)
 
 Imagine stock prices like a **story over time**:
 - Yesterday’s price affects today
@@ -31,13 +31,6 @@ Traditional ML models forget old data.
 3. Learns long-term trends
 4. Predicts the next stock price
 
----
-
-## 🗂️ Project Structure
-📦 stock-market-lstm
-┣ 📜 stock_prediction_market_using_lstm.ipynb
-┣ 📜 README.md
-┗ 📂 dataset
 
 
 ---
