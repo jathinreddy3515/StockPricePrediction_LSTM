@@ -45,7 +45,7 @@ Traditional ML models forget old data.
   - `Close`
   - `Volume`
 
-> The **Close price** is used for prediction because it reflects the final market sentiment of the day.
+> The **Open price** is used for prediction because it reflects the final market sentiment of the day.
 
 ---
 
@@ -74,7 +74,7 @@ Read historical stock data into a Pandas DataFrame.
 
 ### 3️⃣ Data Preprocessing
 - Handle missing values
-- Select `Close` price
+- Select `Open` price
 - Normalize data using **MinMaxScaler**
 - Create sequences (time steps)
 
